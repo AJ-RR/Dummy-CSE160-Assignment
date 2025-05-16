@@ -36,9 +36,9 @@ run: solution
 	./solution Dataset/3/input0.raw Dataset/3/input1.raw Dataset/3/input2.raw Dataset/3/input3.raw Dataset/3/output.raw Dataset/3/program_1_output.raw Dataset/3/program_2_output.raw
 	./solution Dataset/4/input0.raw Dataset/4/input1.raw Dataset/4/input2.raw Dataset/4/input3.raw Dataset/4/output.raw Dataset/4/program_1_output.raw Dataset/4/program_2_output.raw
 	./solution Dataset/5/input0.raw Dataset/5/input1.raw Dataset/5/input2.raw Dataset/5/input3.raw Dataset/5/output.raw Dataset/5/program_1_output.raw Dataset/5/program_2_output.raw
-	./solution Dataset/6/input0.raw Dataset/6/input1.raw Dataset/6/input2.raw Dataset/6/input3.raw Dataset/6/output.raw Dataset/6/program_1_output.raw Dataset/6/program_2_output.raw
-	./solution Dataset/7/input0.raw Dataset/7/input1.raw Dataset/7/input2.raw Dataset/7/input3.raw Dataset/7/output.raw Dataset/7/program_1_output.raw Dataset/7/program_2_output.raw
-	./solution Dataset/8/input0.raw Dataset/8/input1.raw Dataset/8/input2.raw Dataset/8/input3.raw Dataset/8/output.raw Dataset/8/program_1_output.raw Dataset/8/program_2_output.raw
+	#./solution Dataset/6/input0.raw Dataset/6/input1.raw Dataset/6/input2.raw Dataset/6/input3.raw Dataset/6/output.raw Dataset/6/program_1_output.raw Dataset/6/program_2_output.raw
+	#./solution Dataset/7/input0.raw Dataset/7/input1.raw Dataset/7/input2.raw Dataset/7/input3.raw Dataset/7/output.raw Dataset/7/program_1_output.raw Dataset/7/program_2_output.raw
+	#./solution Dataset/8/input0.raw Dataset/8/input1.raw Dataset/8/input2.raw Dataset/8/input3.raw Dataset/8/output.raw Dataset/8/program_1_output.raw Dataset/8/program_2_output.raw
 	./solution Dataset/9/input0.raw Dataset/9/input1.raw Dataset/9/input2.raw Dataset/9/input3.raw Dataset/9/output.raw Dataset/9/program_1_output.raw Dataset/9/program_2_output.raw
 
 clean: 
